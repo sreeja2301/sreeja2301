@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+I’m Bonthu Sreeja, currently pursuing my M.Tech Integrated in Computer Science and Engineering with a specialization in Data Science at VIT Vellore.<br><br>Throughout my academic journey, I’ve built a strong foundation in data analytics, machine learning, and software development. Along with coursework, I’ve focused heavily on practical learning through hands-on projects and real-world problem solving. <br><br>Some of my key projects include an Intelligent Fraud Detection and Compliance Analysis System, where I developed an end-to-end ETL pipeline and implemented a multi-agent AI framework using CrewAI and LLMs for automated risk analysis, and a Smart Solar Energy Optimization system using AI and IoT, where I built predictive models and visualized insights through Power BI dashboards to support energy optimization strategies.<br><br>I also gained industry exposure through my internship at Makers Lab, Tech Mahindra, where I worked on Generative AI and CrewAI frameworks. During this, I designed multi-agent AI systems, integrated LLMs like Gemini and LLaMA, and developed RAG-based pipelines for intelligent decision-making and real-time data processing.<br><br>Apart from technical work, I’ve been actively involved in extracurricular activities as a member of the VIT Dance Club, where I participated in multiple events and contributed to event planning and coordination. These experiences helped me develop teamwork, leadership, and communication skills.<br><br>Overall, I bring a balanced skill set combining data analytics, AI/ML, and practical development experience. I’m passionate about leveraging data-driven solutions, continuously learning new technologies, and growing into a skilled data professional in the analytics and AI domain.<br><br>
 
-<!--
-**sreeja2301/sreeja2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sreeja-bonthu-b86736385/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreejabonthu@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sreeja2301&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sreeja2301&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeja2301&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sreeja2301&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
